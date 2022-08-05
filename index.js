@@ -16,3 +16,4 @@ for (let i = 0; i < filteredNumbers.length; i++){
   }
   
 }
+console.log(results)
